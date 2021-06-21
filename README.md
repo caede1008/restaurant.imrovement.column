@@ -1,0 +1,360 @@
+<html lang="ja">
+
+<head>
+
+    <link href="stylesheet.css" rel="stylesheet">
+    <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
+    <link href="slick.css" rel="stylesheet">
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="favicon.ico">
+
+    <title>コラム詳細サイト</title>
+
+    <!--SEO対策 -->
+　　<meta name="description"  content="" />
+    <meta content='' name='keywords'>
+    <!--SEO対策 -->
+
+    <!-- OGP設定 -->
+    <meta property="og:site_name" content="" />
+    <meta property="og:description" content="" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="" />
+    <!-- OGP設定 -->
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-F016SYKN7V"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-F016SYKN7V');
+    </script>
+    <script src="//kitchen.juicer.cc/?color=fWPw3L/956o=" async></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+
+    <!--jQuery-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <!--jQuery-->
+</head>
+<body>
+    <header id="column-header">
+        <div class="column-header-container">
+            <div class="column-header-upper">
+                <h2>飲食店経営を始めるオーナー・店長の方々のためのコラムサイト</h2>
+            </div>
+            <a href="" class="column-header-site-logo">
+                <img src="column_title.jpg">
+            </a>
+        </div>
+    </header>
+
+    <div class="bread-list">
+        <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+
+            <!-- 1つめ -->
+            <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+              <a itemprop="item" href="">
+                  <span class="bread-list-accent" itemprop="name">飲食店生産性改善bizトップ</span>
+              </a>
+              <meta itemprop="position" content="1" />
+            </li>
+            
+            <li>
+                >
+            </li>
+
+            <!-- 2つめ -->
+            <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+              <a itemprop="item" href="">
+                  <span itemprop="name">コロナ禍の飲食店でできる感染対策とは?</span>
+              </a>
+              <meta itemprop="position" content="2" />
+            </li>
+    
+          </ol>
+    </div>
+
+    <div class="column-container">
+        <main id="column-main">
+            <div class="site-title">
+                <h1>コロナ禍で飲食店ができる感染症対策とは？<br>
+                    対策におすすめのツールも紹介</h1>
+            </div>
+            <div class="editor-name">
+                <p>執筆者名　｜　職業</p>
+            </div>
+            <div class="sns-list">
+                <a class="twitter" href=""><i class="fab fa-twitter"></i></a>
+                <a class="facebook" href=""><i class="fab fa-facebook-f"></i></a>
+                <a class="google" href=""><i class="fab fa-google-plus-g"></i></a>
+                <a class="twitter" href=""><i class="fab fa-twitter"></i></a>
+                <a class="twitter" href=""><i class="fab fa-twitter"></i></a>
+                <a class="line" href=""><i class="fab fa-line"></i></a>
+            </div>
+
+            <div class="column-mainvisual">
+                <img src="column-mainvisual.png" alt="photo">
+            </div>
+
+            <div class="column-index">
+                <div class="column-index-title"><p>この記事の目次</p></div>
+                <div class="column-index-contents">
+                    <a href="#column-contents1">1　　新型コロナウイルスの影響を受ける飲食店</a>
+                    <a href="#column-contents2">2　　感染防止のポイント</a>
+                    <a href="">3　　順番待ちシステムのメリット・デメリット</a>
+                    <a href="#column-contents3">4　　まとめ</a>
+                </div>
+            </div>
+
+            <div class="column-outline">
+                <P>昨今の新型コロナウイルス流行により、飲食店は対策を迫られています。自店から感染者を発生させないためにも、
+                    各店舗は感染防止に向けた取り組みは必須です。この記事では、飲食店でできる具体的な感染対策について解説します。
+                    また、あわせて感染対策に活用できる便利なツールも紹介しているので、ぜひ参考にしてみてください。</P>
+            </div>
+
+            <div id="column-contents1">
+                <div class="column-contents-title">
+                    <div class="column-contents-title-block"></div>
+                    <p>新型コロナウイルスの影響を受ける飲食店</p>
+                </div>
+                <div class="column-contents-text">
+                    <p>従業員やお客など、多くの人が集まる飲食店は、接触感染や飛沫感染のリスクが伴います。
+                        いくら従業員が感染防止の対策を行っていても、お客が感染経路となる可能性もゼロではありません。
+                        万が一自店で感染者が発生し、クラスターになってしまえば、営業の継続ができなくなり、最悪の場合経営にも影響が出てくるでしょう。そのため、飲食店における感染対策は必須だといえます。では、どのような対策ができるのでしょうか。
+                    </p>
+                </div>
+            </div>
+
+            <div id="column-contents2">
+                <div class="column-contents-title">
+                    <div class="column-contents-title-block"></div>
+                    <p>感染症拡大防止もポイント</p>
+                </div>
+                <img src="mainvisual1.png">
+                <div class="column-contents-text">
+                    <p>ここでは、飲食店でできる感染拡大のポイントについて解説します。ぜひ参考にしてみてください。<br>
+                        <span class="column-contents-text-accent">マスク着用の徹底</span><br>                     
+                        感染拡大を防ぐためにも、マスク着用の徹底は欠かせません。
+                        従業員への着用を義務付けるほか、お客に対しても食事中以外は着用をお願いするなどして、
+                        可能な限り飛沫の飛散を防ぎましょう。店舗で従業員用にマスクをまとめて購入しておくこともおすすめです。
+                    </p>
+                </div>
+            </div>
+
+            <div id="column-contents3">
+                <div class="column-contents-title">
+                    <div class="column-contents-title-block"></div>
+                    <p>まとめ</p>
+                </div>
+                <div class="column-contents-text">
+                    <p>間隔を空けることも重要です。お客同士の距離が近いと他人の飛沫を吸い込みやすくなり、感染リスクが高まります。そのため、できれば1〜2メートルは客席の間隔を空けるようにしましょう。
+                         今回は、飲食店でできるコロナの感染対策について解説しました。マスクの着用やパーテーションの設置、客席の間隔確保、さらには順番待ち回避など飲食店でできることは少なくありません。
+                        特に順番待ち回避に関しては、システムを導入することで業務効率化にもつながるため、一度利用を検討してみてはいかがでしょうか。                        
+                    </p>
+                </div>
+            </div>
+
+            <div class="column-editor">
+                <div class="column-editor-text">
+                    <p>執筆 SK</p>
+                    <p>海外在住のフリーライター</p>
+                </div>
+                <img class="column-editor-image" src="column-editor-img.png">
+
+            </div>
+
+            <div class="system-introduction">
+                <a href="" class="system-introducion-title"><span class="system-introduction-accent">飲食店の店頭混雑回避に最適な順番待ちシステム</span></a>
+                <div class="system-introducion-button-image">
+                    <a href="" class="system-introducion-image">
+                        <img src="system-introduction.png">
+                    </a>
+                    <a href="" class="system-introduction-button"><img src="system-introduction-button.png"></a>
+                </div>
+            </div>
+
+            <div class="column-recommnd">
+                <div class="column-recommend-title">
+                    <p>こちらもおすすめ</p>
+                </div>
+                <div class="column-recommend-boxes">
+                    <div class="column-recommend-box">
+                        <a  href="" class="column-recommend-box-img">
+                            <img src="column-recommend-image.png">
+                        </a>
+                        <div class="column-recommend-box-text">
+                            <a href="">補助金とは？助成金との違い、中小企業向けの補助金リスト、申請方法</a>
+                        </div>
+                    </div>
+                    <div class="column-recommend-box">
+                        <a  href="" class="column-recommend-box-img">
+                            <img src="column-recommend-image.png">
+                        </a>
+                        <div class="column-recommend-box-text">
+                            <a href="">補助金とは？助成金との違い、中小企業向けの補助金リスト、申請方法</a>
+                        </div>
+                    </div><div class="column-recommend-box">
+                        <a  href="" class="column-recommend-box-img">
+                            <img src="column-recommend-image.png">
+                        </a>
+                        <div class="column-recommend-box-text">
+                            <a href="">補助金とは？助成金との違い、中小企業向けの補助金リスト、申請方法</a>
+                        </div>
+                    </div><div class="column-recommend-box">
+                        <a  href="" class="column-recommend-box-img">
+                            <img src="column-recommend-image.png">
+                        </a>
+                        <div class="column-recommend-box-text">
+                            <a href="">補助金とは？助成金との違い、中小企業向けの補助金リスト、申請方法</a>
+                        </div>
+                    </div><div class="column-recommend-box">
+                        <a  href="" class="column-recommend-box-img">
+                            <img src="column-recommend-image.png">
+                        </a>
+                        <div class="column-recommend-box-text">
+                            <a href="">補助金とは？助成金との違い、中小企業向けの補助金リスト、申請方法</a>
+                        </div>
+                    </div><div class="column-recommend-box">
+                        <a  href="" class="column-recommend-box-img">
+                            <img src="column-recommend-image.png">
+                        </a>
+                        <div class="column-recommend-box-text">
+                            <a href="">補助金とは？助成金との違い、中小企業向けの補助金リスト、申請方法</a>
+                        </div>
+                    </div><div class="column-recommend-box">
+                        <a  href="" class="column-recommend-box-img">
+                            <img src="column-recommend-image.png">
+                        </a>
+                        <div class="column-recommend-box-text">
+                            <a href="">補助金とは？助成金との違い、中小企業向けの補助金リスト、申請方法</a>
+                        </div>
+                    </div><div class="column-recommend-box">
+                        <a  href="" class="column-recommend-box-img">
+                            <img src="column-recommend-image.png">
+                        </a>
+                        <div class="column-recommend-box-text">
+                            <a href="">補助金とは？助成金との違い、中小企業向けの補助金リスト、申請方法</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <aside id="column-aside">
+            <div class="PR-boxes">
+                <div class="PR-box">
+                    <div class="PR-box-title">
+                        <a href="">PRタイトル</a>
+                    </div>
+                    <div class="PR-box-image">
+                        <a href=""><img src="demo-image1.png"></a>
+                    </div>
+                </div>
+                <div class="PR-box">
+                    <div class="PR-box-title">
+                        <a href="">PRタイトル</a>
+                    </div>
+                    <div class="PR-box-image">
+                        <a href=""><img src="demo-image1.png"></a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="column-popular-article">
+                <div class="column-popular-article-container">
+                    <div class="column-popular-article-title">
+                        <h3>よく読まれている記事</h3>
+                    </div>
+                    <div class="column-popular-article-boxes">
+                        <div class="column-popular-article-box">
+                            <div class="column-popular-article-box-img">
+                                <a href="" class="column-popular-article-number">1</a>
+                                <a href=""><img src="demo-image5.png" alt="img"></a>
+                            </div>
+                            <div class="column-popular-article-text">
+                                <a href="">飲食店マネジメント職が知るべき経営指標
+                                    「人時売上高」とは？</a>
+                            </div>
+                        </div>
+                        <div class="column-popular-article-box">
+                            <div class="column-popular-article-box-img">
+                                <a href="" class="column-popular-article-number">2</a>
+                                <a href=""><img src="demo-image6.png" alt="img"></a>
+                            </div>
+                            <div class="column-popular-article-text">
+                                <a href="">時短店舗必見！コロナ禍の飲食店経営に欠かせない空席対策のコツとは？</a>
+                            </div>
+                        </div>
+                        <div class="column-popular-article-box">
+                            <div class="column-popular-article-box-img">
+                                <a href="" class="column-popular-article-number">3</a>
+                                <a href=""><img src="demo-image7.png" alt="img"></a>
+                            </div>
+                            <div class="column-popular-article-text">
+                                <a href="">コロナ禍の飲食店でできる感染症対策と集客施策の両立に欠かせない事は？</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="column-new-article">
+                <div class="column-new-article-title">
+                    <p>新着記事</p>
+                </div>
+                <div class="column-new-article-boxes">
+                    <div class="column-new-article-box">
+                        <div class="column-new-article-box-title">
+                            <a href="">生産性</a>
+                        </div>
+                        <a href="" class="column-new-article-box-img"><img src="demo-image2.png" alt="img"></a>
+                        <div class="column-new-article-box-text">
+                            <a href="">チャンスロス防止！飲食店のピークタイムを伸ばすには？</a>
+                        </div>
+                    </div>
+                    <div class="column-new-article-box">
+                        <div class="column-new-article-box-title">
+                            <a href="">知識</a>
+                        </div>
+                        <a href="" class="column-new-article-box-img"><img src="demo-image2.png" alt="img"></a>
+                        <div class="column-new-article-box-text">
+                            <a href="">飲食店マネジメント職が知るべき経営指標「FLコスト」とは？</a>
+                        </div>
+                    </div>
+                    <div class="column-new-article-box">
+                        <div class="column-new-article-box-title">
+                            <a href="">集客</a>
+                        </div>
+                        <a href="" class="column-new-article-box-img"><img src="demo-image2.png" alt="img"></a>
+                        <div class="column-new-article-box-text">
+                            <a href="">飲食店の集客のコツ教えます。飲食店と顧客分析編</a>
+                        </div>
+                    </div>
+                    <div class="column-new-article-box">
+                        <div class="column-new-article-box-title">
+                            <a href="">行列</a>
+                        </div>
+                        <a href="" class="column-new-article-box-img"><img src="demo-image2.png" alt="img"></a>
+                        <div class="column-new-article-box-text">
+                            <a href="">飲食店に行列ができる仕組みとその意外なワケとは？</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </aside>
+    </div>
+    
+
+
+</body>
+
+<footer id="footer">
+    <p>Copyright © 2021 飲食店生産性改善マネジメント.biz</p>
+</footer>
+
+</html>
